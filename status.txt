@@ -1,0 +1,2 @@
+true
+Tu mensaje personalizado que aparecerá en grande en la pantalla bloqueada (puede ser largo)
