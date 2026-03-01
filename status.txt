@@ -1,2 +1,2 @@
-true
+false
 Hola Buenas si ves este mensaje es porque no has pagado si si has pagado contacta conmigo.
